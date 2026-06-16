@@ -1,8 +1,10 @@
-<h1 align="center">¡Hola! Soy Israel Reyes 🇵🇦👋</h1>
-<h3 align="center">Estudiante de Bachillerato en Tecnología · Constructor de soluciones reales</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:0FA3B1&height=200&section=header&text=Israel%20Reyes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20Tecnolog%C3%ADa%20%7C%20Constructor%20de%20soluciones%20reales&descAlignY=55&descSize=18" alt="Banner" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Meta_actual-Admisión_universitaria_(1_Ago)-2ea44f?style=for-the-badge" alt="Meta actual" />
+  <img src="https://img.shields.io/badge/🇵🇦_Panam%C3%A1-Colegio_Rodolfo_Chiari-0B1F3A?style=for-the-badge" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/🎓_Meta_actual-Admisión_universitaria_(1_Ago)-0FA3B1?style=for-the-badge" alt="Meta actual" />
 </p>
 
 ---
@@ -13,7 +15,14 @@ Soy estudiante de duodécimo grado de bachillerato en tecnología en el **Colegi
 
 Mi sistema operativo principal es **Windows**, pero en paralelo mantengo un entorno **Linux (Debian con Hyprland)** instalado en un disco duro externo. Ese disco portátil me da un entorno limpio y especializado para desarrollar mis herramientas de automatización y programación sin afectar mi sistema principal.
 
-Mi meta a corto plazo es ingresar a la universidad, y me estoy preparando firmemente para la prueba de admisión del **1 de agosto**.
+---
+
+### 🧭 Actualmente aprendiendo / próximos pasos
+
+- 📚 Preparándome a fondo para la prueba de admisión universitaria del **1 de agosto**.
+- 🔧 Documentando y subiendo el PDF técnico del proyecto de robótica (CSI) a su repositorio.
+- 🐍 Creando el repositorio público de **Ojo de Neón** para compartir el código completo.
+- 🌱 Profundizando en Firebase y buenas prácticas de seguridad para autenticación de usuarios.
 
 ---
 
@@ -43,8 +52,8 @@ Mi meta a corto plazo es ingresar a la universidad, y me estoy preparando firmem
 **Hardware & robótica**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Microcontroladores](https://img.shields.io/badge/Microcontroladores-555555?style=for-the-badge)
-![Servomotores y sensores](https://img.shields.io/badge/Servomotores_%26_Sensores-555555?style=for-the-badge)
+
+Trabajo también con microcontroladores, servomotores y sensores para proyectos de control físico.
 
 ---
 
@@ -55,6 +64,11 @@ Mi meta a corto plazo es ingresar a la universidad, y me estoy preparando firmem
 *Nació de una necesidad personal: quería estudiar para mi examen de admisión universitaria midiendo mi progreso real, en lugar de responder al azar.*
 
 Diseñado en HTML/CSS con asistencia de IA (Claude) y lógica en JavaScript. Inicialmente guardaba los datos en caché, pero para no perder el progreso si esta se borraba, integré **Firebase** para gestionar usuarios e inicio de sesión (miembros e invitados).
+
+<!--
+  📸 Sugerencia: agrega aquí una captura de pantalla o un GIF corto mostrando la plataforma en uso.
+  Ejemplo: ![Vista previa de Panamá Nexus](./assets/panama-nexus-preview.gif)
+-->
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -71,6 +85,11 @@ Diseñado en HTML/CSS con asistencia de IA (Claude) y lógica en JavaScript. Ini
 
 Como parte del **Cuerpo de Solidaridad Informático (CSI)**, desarrollamos un sistema que programa un microcontrolador Arduino para manipular servomotores mediante un joystick físico, aplicando lógica inversa (180° menos el valor ingresado) para controlar el giro de los motores.
 
+<!--
+  📸 Sugerencia: agrega aquí una foto o video corto del brazo/servomotor en movimiento.
+  Ejemplo: ![Vista previa del control de robótica](./assets/csi-robot-preview.gif)
+-->
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 <!-- Nota: este link funcionará en cuanto subas el PDF al repositorio -->
@@ -81,6 +100,11 @@ Como parte del **Cuerpo de Solidaridad Informático (CSI)**, desarrollamos un si
 #### 👁️ Ojo de Neón (v6.6 PRO)
 
 Script de automatización y visión artificial en **Python** para entornos Linux. Abre la cámara con un atajo de teclado, lee códigos QR de Wi-Fi para conectarse automáticamente, y cuenta con un sistema de seguridad que analiza comandos encriptados en código QR, describiendo qué hacen antes de pedir mi autorización para ejecutarlos.
+
+<!--
+  📸 Sugerencia: agrega aquí una captura de terminal mostrando el script en acción.
+  Ejemplo: ![Vista previa de Ojo de Neón](./assets/ojo-de-neon-preview.gif)
+-->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
