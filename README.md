@@ -1,38 +1,104 @@
-# ¡Hola! Soy Israel Reyes 🇵🇦👋
+<h1 align="center">¡Hola! Soy Israel Reyes 🇵🇦👋</h1>
+<h3 align="center">Estudiante de Bachillerato en Tecnología · Constructor de soluciones reales</h3>
 
-Soy un estudiante de duodécimo grado de bachillerato en tecnología en el Colegio Rodolfo Chiari. Me apasiona profundamente entender cómo funcionan las computadoras, optimizar sistemas operativos y construir soluciones tecnológicas reales a los problemas del día a día.
-
-Mi sistema operativo principal es **Windows**, pero de forma paralela cuento con un entorno **Linux (Debian con Hyprland)** instalado en un disco duro externo. Este disco portátil me facilita un entorno limpio y especializado para desarrollar mis herramientas de automatización y programación sin afectar mi sistema principal. Mi meta a corto plazo es ingresar a la universidad, preparándome firmemente para la prueba de admisión de este 1 de agosto.
-
----
-
-## 🛠️ Mis Tecnologías y Herramientas
-- **Sistemas Operativos & Entornos:** Windows (Principal) y Linux Debian (Entorno Hyprland/Wayland en HDD externo).
-- **Desarrollo Web & Backend:** HTML5, CSS3, JavaScript, PHP, Firebase (Bases de datos de Google) y Vercel.
-- **Programación & Automatización:** Python, Git y GitHub.
-- **Hardware & Robótica:** Arduino, microcontroladores, servomotores y sensores.
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Meta_actual-Admisión_universitaria_(1_Ago)-2ea44f?style=for-the-badge" alt="Meta actual" />
+</p>
 
 ---
 
-## 📁 Evidencias de mis Proyectos Destacados
+### 🙋 Sobre mí
 
-### 1. 🌐 Panamá Nexus (Plataforma Web de Estudio)
-Nació por una necesidad personal: quería estudiar para mi examen de admisión universitaria midiendo mi progreso real y evitar responder al azar.
-- **Desarrollo:** Diseñado en HTML/CSS con asistencia de IA (Claude) y lógica en JavaScript. Inicialmente guardaba los datos en la caché, pero para evitar perder el progreso si esta se borraba, integré **Firebase** para gestionar usuarios e iniciar sesión (miembros e invitados).
-- **Evidencia del Proyecto:**
-  - 🚀 [Haz clic aquí para ver la Página Web funcionando en vivo (Vercel)](https://paa-nexus.vercel.app/) *(Nota: cambia esto por tu link real de Vercel)*
-  - 💻 [Haz clic aquí para ver el Código Fuente en GitHub](https://github.com/isroyal8514/PAA-Nexus)
+Soy estudiante de duodécimo grado de bachillerato en tecnología en el **Colegio Rodolfo Chiari**. Me apasiona entender cómo funcionan las computadoras a fondo, optimizar sistemas operativos y construir soluciones tecnológicas reales para problemas del día a día — no programar por programar, sino resolver.
 
-### 2. 🤖 Proyecto de Robótica y Microcontroladores (CSI)
-Formo parte del **Cuerpo de Solidaridad Informático (CSI)**. Desarrollamos un sistema donde programamos un microcontrolador Arduino para manipular servomotores mediante un joystick físico, aplicando lógica inversa ($180^\circ$ menos el valor ingresado) para el giro de los motores.
-- **Evidencia del Proyecto:**
-  - 📄 [Haz clic aquí para ver el PDF con la Presentación y Diagramas Técnicos](https://github.com/isroyal8514/robot-arduino-control/blob/main/Israel_Reyes.pdf) *(Nota: este link funcionará cuando subas el PDF)*
+Mi sistema operativo principal es **Windows**, pero en paralelo mantengo un entorno **Linux (Debian con Hyprland)** instalado en un disco duro externo. Ese disco portátil me da un entorno limpio y especializado para desarrollar mis herramientas de automatización y programación sin afectar mi sistema principal.
 
-### 3. 👁️ Ojo de Neón (v6.6 PRO)
-Script de automatización y visión artificial en **Python** diseñado para entornos Linux. Abre la cámara mediante un atajo de teclado, lee códigos QR de Wi-Fi para conectarse automáticamente y cuenta con un sistema de seguridad que analiza comandos encriptados en QR, describiendo qué hacen antes de pedir mi autorización para ejecutarlos.
-- **Evidencia del Proyecto:**
-  - 🐍 [Haz clic aquí para ver el Código en Python (.py)](https://github.com/isroyal8514/ojo-de-neon/blob/main/ojo_de_neon.py) *(Nota: este link funcionará cuando crees este repositorio)*
+Mi meta a corto plazo es ingresar a la universidad, y me estoy preparando firmemente para la prueba de admisión del **1 de agosto**.
 
 ---
 
-> *"No lo sé todo, pero tengo la iniciativa y la capacidad de buscar la información, seguir guías, entender el código y solucionar los problemas tecnológicos que me propongo."*
+### 🛠️ Tecnologías y herramientas
+
+**Sistemas operativos & entornos**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white)
+
+**Desarrollo web & backend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Programación & automatización**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Hardware & robótica**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Microcontroladores](https://img.shields.io/badge/Microcontroladores-555555?style=for-the-badge)
+![Servomotores y sensores](https://img.shields.io/badge/Servomotores_%26_Sensores-555555?style=for-the-badge)
+
+---
+
+### 📁 Proyectos destacados
+
+#### 🌐 Panamá Nexus — Plataforma web de estudio
+
+*Nació de una necesidad personal: quería estudiar para mi examen de admisión universitaria midiendo mi progreso real, en lugar de responder al azar.*
+
+Diseñado en HTML/CSS con asistencia de IA (Claude) y lógica en JavaScript. Inicialmente guardaba los datos en caché, pero para no perder el progreso si esta se borraba, integré **Firebase** para gestionar usuarios e inicio de sesión (miembros e invitados).
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<!-- Nota: confirma que este sea tu link real de Vercel antes de publicar -->
+[![Demo en vivo](https://img.shields.io/badge/🚀_Ver_demo_en_vivo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paa-nexus.vercel.app/)
+[![Código fuente](https://img.shields.io/badge/💻_Ver_código_fuente-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isroyal8514/PAA-Nexus)
+
+<br>
+
+#### 🤖 Control de robótica con microcontroladores (CSI)
+
+Como parte del **Cuerpo de Solidaridad Informático (CSI)**, desarrollamos un sistema que programa un microcontrolador Arduino para manipular servomotores mediante un joystick físico, aplicando lógica inversa (180° menos el valor ingresado) para controlar el giro de los motores.
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+<!-- Nota: este link funcionará en cuanto subas el PDF al repositorio -->
+[![Presentación PDF](https://img.shields.io/badge/📄_Ver_presentación_y_diagramas-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/isroyal8514/robot-arduino-control/blob/main/Israel_Reyes.pdf)
+
+<br>
+
+#### 👁️ Ojo de Neón (v6.6 PRO)
+
+Script de automatización y visión artificial en **Python** para entornos Linux. Abre la cámara con un atajo de teclado, lee códigos QR de Wi-Fi para conectarse automáticamente, y cuenta con un sistema de seguridad que analiza comandos encriptados en código QR, describiendo qué hacen antes de pedir mi autorización para ejecutarlos.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<!-- Nota: este link funcionará en cuanto crees el repositorio -->
+[![Código en Python](https://img.shields.io/badge/🐍_Ver_código-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/isroyal8514/ojo-de-neon/blob/main/ojo_de_neon.py)
+
+---
+
+### 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isroyal8514&show_icons=true&theme=default&hide_title=false" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isroyal8514" alt="Racha de contribuciones" width="48%" />
+</p>
+
+---
+
+<blockquote align="center">
+<i>"No lo sé todo, pero tengo la iniciativa y la capacidad de buscar la información, seguir guías, entender el código y solucionar los problemas tecnológicos que me propongo."</i>
+</blockquote>
