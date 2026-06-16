@@ -110,7 +110,7 @@ Script de automatización y visión artificial en **Python** para entornos Linux
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <!-- Nota: este link funcionará en cuanto crees el repositorio -->
-[![Código en Python](https://img.shields.io/badge/🐍_Ver_código-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/isroyal8514/ojo-de-neon/blob/main/ojo_de_neon.py)
+[![Código en Python](https://img.shields.io/badge/🐍_Ver_código-.py-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/isroyal8514/ojo-de-neon/blob/main/ojo_neon_v6.6_pro.py)
 
 ---
 
