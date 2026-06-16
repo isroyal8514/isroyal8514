@@ -26,7 +26,7 @@ Nació por una necesidad personal: quería estudiar para mi examen de admisión 
 ### 2. 🤖 Proyecto de Robótica y Microcontroladores (CSI)
 Formo parte del **Cuerpo de Solidaridad Informático (CSI)**. Desarrollamos un sistema donde programamos un microcontrolador Arduino para manipular servomotores mediante un joystick físico, aplicando lógica inversa ($180^\circ$ menos el valor ingresado) para el giro de los motores.
 - **Evidencia del Proyecto:**
-  - 📄 [Haz clic aquí para ver el PDF con la Presentación y Diagramas Técnicos](https://github.com/isroyal8514/robot-arduino-control/blob/main/Israel Reyes.pdf) *(Nota: este link funcionará cuando subas el PDF)*
+  - 📄 [Haz clic aquí para ver el PDF con la Presentación y Diagramas Técnicos](https://github.com/isroyal8514/robot-arduino-control/blob/main/Israel_Reyes.pdf) *(Nota: este link funcionará cuando subas el PDF)*
 
 ### 3. 👁️ Ojo de Neón (v6.6 PRO)
 Script de automatización y visión artificial en **Python** diseñado para entornos Linux. Abre la cámara mediante un atajo de teclado, lee códigos QR de Wi-Fi para conectarse automáticamente y cuenta con un sistema de seguridad que analiza comandos encriptados en QR, describiendo qué hacen antes de pedir mi autorización para ejecutarlos.
